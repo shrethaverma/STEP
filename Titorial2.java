@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Titorial2 {
+public class Tutorial2 {
 
     // L1: Check if a number is Prime (Using for loop)
     public static void checkPrime(Scanner scanner) {
